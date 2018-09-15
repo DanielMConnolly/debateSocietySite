@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
+title: Meet The E-Board
 ---
-# About page
+# Meet The E-Board
 
 This page tells you a little bit about me.
