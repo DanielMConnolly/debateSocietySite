@@ -1,4 +1,4 @@
 collections:
   events:
     output: True
-    permalink: /events/:year/:month/:day/
+    permalink: /events/:path
