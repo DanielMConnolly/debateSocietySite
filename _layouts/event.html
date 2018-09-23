@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
-<p>{{ page.dateOfEvent | date_to_string }} - {{ page.location }}</p>
+<style>
+  body {
+    position: relative;
+    left: 1% ;
+  }
+</style>
+<h1> {{page.name}} </h1>
+<h2> {{ page.dateOfEvent | date_to_string }} - {{ page.location }} </h2>
 
-{{ content }}
+
+{{content}}
