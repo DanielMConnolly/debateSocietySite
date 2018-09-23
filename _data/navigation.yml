@@ -2,7 +2,5 @@
   link: /
 - name: Meet The E-Board
   link: /eboard.html
-- name: Post
-  link: /blog.html
-- name: Staff
-  link: /staff.html
+- name: Events
+  link: /events.html

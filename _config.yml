@@ -1,3 +1,4 @@
 collections:
-  authors:
-    output: true
+  events:
+    output: True
+    permalink: /events/:year/:month/:day/
